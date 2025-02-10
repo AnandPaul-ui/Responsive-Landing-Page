@@ -13,6 +13,3 @@ A modern and fully responsive landing page with smooth scrolling navigation, an 
 - **HTML5** – Semantic structure
 - **CSS3** – Styling and responsive design
 - **JavaScript (Vanilla)** – Smooth scrolling & image slider functionality
-
-## 📷 Screenshots
-![Landing Page](https://via.placeholder.com/1200x600?text=Landing+Page+Screenshot)
